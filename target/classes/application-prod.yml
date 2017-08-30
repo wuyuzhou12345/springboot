@@ -1,0 +1,9 @@
+server:
+  port: 9990
+  context-path: /springboot
+management:
+  port: 9990
+  address: 127.0.0.1
+person:
+  age: 18
+  province: zhejiang-prod
